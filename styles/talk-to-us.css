@@ -36,7 +36,7 @@ body {
 /* Search Input */
 /* Search Input */
 .search-input {
-    width: 100%;
+    width: 100vw;
     height: 150px;
     background-color: #fff;
     display: flex;
@@ -118,6 +118,7 @@ body {
 }
 
 .menu-header {
+    padding-top: 40px;
 
     margin-right: -260px;
     gap: 15px;
